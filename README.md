@@ -1,4 +1,4 @@
 # Scrach-Card
 Scrach Card like Google Pay rewards
 
-![](scratch cars view.gif)
+![](scratch-card-view.gif)
